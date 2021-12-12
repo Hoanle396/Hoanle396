@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LÊ HỮU HOÀN
 - 👀 Facebook : <a href="http://fb.com/hoanle.396">Hoàn Lê</a>
-- 🌱 Tôi Học Java, C, Laravel, vuejs, ...
+- 🌱 Tôi Học Java, C, Laravel, VueJs, ...
 - 💞️ Tôi rất vui khi bạn ghé qua đây
 - 📫 Cảm ơn bạn.
 
