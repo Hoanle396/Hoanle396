@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=hoanle.tk&style=for-the-badge&url=https://hoanle.tk)](https://hoanle.tk/)
 
-## I'm a Student, Boy, and Developer!!
+## I'm a Student and Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][website]!
 - 🌱 I’m currently learning everything 🤣
