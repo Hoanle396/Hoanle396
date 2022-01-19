@@ -2,13 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=hoanle.tk&style=for-the-badge&url=https://hoanle.tk)](https://hoanle.tk/)
 
-## I'm a Student, Boy, Developer, and Teacher!!
+## I'm a Student, Boy, and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to coding and listen music 
 
 ### Connect with me:
 
@@ -49,7 +49,6 @@
 
 
 [website]: https://hoanle.tk
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/hoanle396
 [youtube]: https://www.youtube.com/channel/UCm3jjrj_lvfsMzZYhn2FoHg
 [instagram]: https://www.instagram.com/hoan5032/
