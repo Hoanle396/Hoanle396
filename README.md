@@ -15,7 +15,7 @@
 [<img align="left" alt="Hoanle.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hoàn Lê | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hoàn Lê | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hoàn Lê | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hoàn Lê | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Hoàn Lê | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -53,5 +53,5 @@
 [twitter]: https://twitter.com/hoanle396
 [youtube]: https://www.youtube.com/channel/UCm3jjrj_lvfsMzZYhn2FoHg
 [instagram]: https://www.instagram.com/hoan5032/
-[linkedin]: https://linkedin.com/in/hoanle396
+[facebook]: https://facebook.com//hoanle396
 
