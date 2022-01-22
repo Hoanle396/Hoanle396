@@ -26,7 +26,8 @@
 <img align="left" alt="Sublime text" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
-
+<img align="left" alt="Android Studio" width="35px" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png" />
+<img align="left" alt="intelLJ" width="35px" src="https://github.com/github/explore/blob/main/topics/intellij-idea/intellij-idea.png" />
 <br />
 
 ### Languages
@@ -35,11 +36,13 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 <img align="left" alt="Bootstrap" width="30px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Sass" width="30px" src="https://github.com/github/explore/blob/main/topics/sass/sass.png" />
 <img align="left" alt="Tailwincss" width="30px" src="https://github.com/github/explore/blob/main/topics/tailwind/tailwind.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="30px" src="https://github.com/github/explore/blob/main/topics/java/java.png" />
+<img align="left" alt="Spring" width="35px" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Android" width="30px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />
 <img align="left" alt="Py thon" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
