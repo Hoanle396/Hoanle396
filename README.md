@@ -28,6 +28,7 @@
 <img align="left" alt="MySQL" width="35px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
 <img align="left" alt="Android Studio" width="35px" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png" />
 <img align="left" alt="intelLJ" width="35px" src="https://github.com/github/explore/blob/main/topics/intellij-idea/intellij-idea.png" />
+<img align="left" alt="Figma" width="35px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png" />
 <br />
 
 ### Languages
