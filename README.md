@@ -1,6 +1,6 @@
 ### Hi there, I'm Hoàn - aka [Hoàn Lê][website] 👋 
 
-[![Website](https://img.shields.io/website?label=hoanle.tk&style=for-the-badge&url=https://hoanle.tk)](https://hoanle.tk/)
+[![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Students%20of%20Vietnam-Korea%20IT%20University;%20Web%20application%20developer)]
 
 ## I'm a Student and Developer!!
 
