@@ -41,9 +41,12 @@
 <img align="left" alt="Java" width="30px" src="https://github.com/github/explore/blob/main/topics/java/java.png" />
 <img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Android" width="30px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />
+<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
 <img align="left" alt="Py thon" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
+<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
@@ -59,7 +62,9 @@
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="VueJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+<img align="left" alt="NodeJS" width="30px" src="hhttps://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/express/express.png" />
+<img align="left" alt="NestJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
 <br>
 <br>
 
