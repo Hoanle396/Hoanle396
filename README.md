@@ -67,8 +67,6 @@
 <img align="left" alt="NestJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
 <br>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanle396&langs_count=8&layout=compact)
 ---
 
 
