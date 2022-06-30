@@ -1,6 +1,7 @@
 ### Hi there, I'm Hoàn - aka [Hoàn Lê][website] 👋 
 
-![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Student%20of%20Vietnam-Korea%20IT%20University;%20Fullstack%20Web%20application%20developer,%20Mobile%20application%20developer;%20Figma%20UI%20designer)
+![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Student%20of%20 Viet - Korea University of Information Communication
+        Technology;%20Fullstack%20Web%20application%20developer,%20Mobile%20application%20developer;%20Figma%20UI%20designer)
 
 ## I'm a Student and Developer!!
 
