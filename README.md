@@ -54,7 +54,6 @@
 ### Framework
 
 <img align="left" alt="Sass" width="30px" src="https://github.com/github/explore/blob/main/topics/sass/sass.png" />
-<img align="left" alt="Tailwincss" width="30px" src="https://github.com/github/explore/blob/main/topics/tailwind/tailwind.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Jquery" width="30px" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png" />
 <img align="left" alt="Ajax" width="30px" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png" />
