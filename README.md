@@ -29,6 +29,7 @@
 <img align="left" alt="Figma" width="35px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
+<img align="left" alt="Docker" width="30px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
 
 <br />
 
@@ -61,9 +62,12 @@
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="VueJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="30px" src="https://github.com/github/explore/blob/main/topics/redux/redux.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" />
 <img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/express/express.png" />
+<img align="left" alt="Flask" width="30px" src="https://github.com/github/explore/blob/main/topics/flask/flask.png" />
 <img align="left" alt="NestJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
+
 <br>
 <br>
 
