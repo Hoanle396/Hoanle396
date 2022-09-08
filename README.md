@@ -32,7 +32,7 @@
 <img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
 <img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="30px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
-
+<img align="left" alt="Heroku" width="30px" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png" />
 <br />
 
 ### Languages
