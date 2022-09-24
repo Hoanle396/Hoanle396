@@ -25,7 +25,7 @@ public class HoanLe {
 
 	public static void main(String[] args) {
 
-		HoanLe me = new HoanLe("Lê Hữu Hoàn", 20, "VIETNAM-KOREA UNIVERSITY OF INFORMATIONAND COMMUNICATION TECHNOLOGY");
+		HoanLe me = new HoanLe("Lê Hữu Hoàn", 20, "VIETNAM-KOREA UNIVERSITY OF ICT");
 		me.fullName();
 	}
 }
