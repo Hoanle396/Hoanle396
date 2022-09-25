@@ -4,30 +4,12 @@
 
 ## I'm a Student and Developer!!
 
-```java
-package me;
-
-public class HoanLe {
-	public String fullName;
-	public int age;
-	public String school;
-
-	public HoanLe(String fullName, int age, String school) {
-		super();
-		this.fullName = fullName;
-		this.age = age;
-		this.school = school;
-	}
-
-	public String fullName() {
-		return this.fullName;
-	}
-
-	public static void main(String[] args) {
-
-		HoanLe me = new HoanLe("Lê Hữu Hoàn", 20, "VIETNAM-KOREA UNIVERSITY OF ICT");
-		me.fullName();
-	}
+```javascript
+const HoanLe = {
+   fullName: "Lê Hữu Hoàn",
+   age: 20,
+   location: "Hà Tĩnh - Việt Nam",
+   school: "VIETNAM-KOREA UNIVERSITY OF ICT"
 }
 ```
 
