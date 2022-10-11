@@ -65,8 +65,6 @@ const HoanLe = {
 
 <img align="left" alt="Sass" width="30px" src="https://github.com/github/explore/blob/main/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Jquery" width="30px" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png" />
-<img align="left" alt="Ajax" width="30px" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png" />
 <img align="left" alt="Spring" width="35px" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="VueJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
