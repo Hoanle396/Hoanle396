@@ -4,8 +4,8 @@
 
 ## I'm a Student and Developer!!
 
-```javascript
-const HoanLe = {
+```typescript
+const HoanLe: IMyInfo = {
    fullName: "Lê Hữu Hoàn",
    age: 20,
    location: "Hà Tĩnh - Việt Nam",
