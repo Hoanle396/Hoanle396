@@ -42,6 +42,7 @@ const HoanLe: IMyInfo = {
 <img align="left" alt="Docker" width="30px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
 <img align="left" alt="Heroku" width="30px" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png" />
 <img align="left" alt="Heroku" width="30px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="Vite" width="30px" src="https://github.com/github/explore/blob/main/topics/vite/vite.png" />
 <br />
 
 ### Languages
