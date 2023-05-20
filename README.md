@@ -76,7 +76,9 @@ const HoanLe: IMyInfo = {
 <img align="left" alt="Flask" width="30px" src="https://github.com/github/explore/blob/main/topics/flask/flask.png" />
 <img align="left" alt="NestJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
 <img align="left" alt="NextJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Graphql" width="30px" src="https://github.com/github/explore/blob/main/topics/nuxt/nuxt.png" />
 <img align="left" alt="React-native" width="30px" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png" />
+<img align="left" alt="Graphql" width="30px" src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png" />
 <br>
 <br>
 
