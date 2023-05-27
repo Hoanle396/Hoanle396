@@ -30,56 +30,56 @@ const HoanLe: IMyInfo = {
 
 ### Tools:
 
-<img align="left" alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime text" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="Android Studio" width="35px" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png" />
-<img align="left" alt="intelLJ" width="35px" src="https://github.com/github/explore/blob/main/topics/intellij-idea/intellij-idea.png" />
-<img align="left" alt="Figma" width="35px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="MySQL" width="35px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
-<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
-<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="Docker" width="30px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
-<img align="left" alt="Heroku" width="30px" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png" />
-<img align="left" alt="Heroku" width="30px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png" />
-<img align="left" alt="Vite" width="30px" src="https://github.com/github/explore/blob/main/topics/vite/vite.png" />
+<img align="left" alt="Visual Studio" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sublime text" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+<img align="left" alt="Android Studio" width="40px" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png" />
+<img align="left" alt="intelLJ" width="40px" src="https://github.com/github/explore/blob/main/topics/intellij-idea/intellij-idea.png" />
+<img align="left" alt="Figma" width="40px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="MySQL" width="40px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
+<img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
+<img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" />
+<img align="left" alt="Docker" width="40px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
+<img align="left" alt="Heroku" width="40px" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png" />
+<img align="left" alt="Heroku" width="40px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="Vite" width="40px" src="https://github.com/github/explore/blob/main/topics/vite/vite.png" />
 <br />
 
 ### Languages
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="30px" src="https://github.com/github/explore/blob/main/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Android" width="30px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />
-<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
-<img align="left" alt="Py thon" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Java" width="40px" src="https://github.com/github/explore/blob/main/topics/java/java.png" />
+<img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Android" width="40px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />
+<img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
+<img align="left" alt="Py thon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 
 ### Framework
 
-<img align="left" alt="Sass" width="30px" src="https://github.com/github/explore/blob/main/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Sass" width="30px" src="https://github.com/github/explore/blob/main/topics/tailwind/tailwind.png" />
-<img align="left" alt="Spring" width="35px" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="VueJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="30px" src="https://github.com/github/explore/blob/main/topics/redux/redux.png" />
-<img align="left" alt="NodeJS" width="30px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="" width="30px" src="https://github.com/github/explore/blob/main/topics/express/express.png" />
-<img align="left" alt="Flask" width="30px" src="https://github.com/github/explore/blob/main/topics/flask/flask.png" />
-<img align="left" alt="NestJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
-<img align="left" alt="NextJs" width="30px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" />
-<img align="left" alt="Graphql" width="30px" src="https://github.com/github/explore/blob/main/topics/nuxt/nuxt.png" />
-<img align="left" alt="React-native" width="30px" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png" />
-<img align="left" alt="Graphql" width="30px" src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png" />
+<img align="left" alt="Sass" width="40px" src="https://github.com/github/explore/blob/main/topics/sass/sass.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Sass" width="40px" src="https://github.com/github/explore/blob/main/topics/tailwind/tailwind.png" />
+<img align="left" alt="Spring" width="40px" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="VueJs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="40px" src="https://github.com/github/explore/blob/main/topics/redux/redux.png" />
+<img align="left" alt="NodeJS" width="40px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/express/express.png" />
+<img align="left" alt="Flask" width="40px" src="https://github.com/github/explore/blob/main/topics/flask/flask.png" />
+<img align="left" alt="NestJs" width="40px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
+<img align="left" alt="NextJs" width="40px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Graphql" width="40px" src="https://github.com/github/explore/blob/main/topics/nuxt/nuxt.png" />
+<img align="left" alt="React-native" width="40px" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png" />
+<img align="left" alt="Graphql" width="40px" src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png" />
 <br>
 <br>
 
