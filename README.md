@@ -35,6 +35,7 @@ const HoanLe: IMyInfo = {
 <img align="left" alt="Android Studio" width="40px" src="https://github.com/github/explore/blob/main/topics/android-studio/android-studio.png" />
 <img align="left" alt="intelLJ" width="40px" src="https://github.com/github/explore/blob/main/topics/intellij-idea/intellij-idea.png" />
 <img align="left" alt="Figma" width="40px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png" />
+<br />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="MySQL" width="40px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
 <img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
@@ -54,6 +55,7 @@ const HoanLe: IMyInfo = {
 <img align="left" alt="Java" width="40px" src="https://github.com/github/explore/blob/main/topics/java/java.png" />
 <img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Android" width="40px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />
+<br />
 <img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
 <img align="left" alt="Py thon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -72,6 +74,7 @@ const HoanLe: IMyInfo = {
 <img align="left" alt="VueJs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="40px" src="https://github.com/github/explore/blob/main/topics/redux/redux.png" />
+<br />
 <img align="left" alt="NodeJS" width="40px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" />
 <img align="left" alt="" width="40px" src="https://github.com/github/explore/blob/main/topics/express/express.png" />
 <img align="left" alt="Flask" width="40px" src="https://github.com/github/explore/blob/main/topics/flask/flask.png" />
