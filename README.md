@@ -23,8 +23,8 @@ const HoanLe: IMyInfo = {
 [<img align="left" alt="Hoanle.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hoàn Lê | YouTube" width="22px" src="https://github.com/github/explore/blob/main/topics/youtube/youtube.png" />][youtube]
 [<img align="left" alt="Hoàn Lê | LinkedIn" width="22px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png" />][facebook]
-[<img align="left" alt="Hoàn Lê | Twitter" width="22px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="Hoàn Lê | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png" />][instagram]
+[<img align="left" alt="Hoàn Lê | Telegram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="Hoàn Lê | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
 
 <br />
 
@@ -55,8 +55,8 @@ const HoanLe: IMyInfo = {
 
 [messenger]: https://www.facebook.com/messages/t/100036070716996
 [website]: https://hoanle.tk
-[twitter]: https://twitter.com/hoanlehuu396
+[telegram]: https://t.me/lhhoan
 [youtube]: https://www.youtube.com/channel/UCm3jjrj_lvfsMzZYhn2FoHg
-[instagram]: https://www.instagram.com/hoanle.396/
+[discord]: https://discord.com/users/934653009479217282
 [facebook]: https://facebook.com//hoanle396
 
