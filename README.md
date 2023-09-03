@@ -1,13 +1,13 @@
 ### Hi there, I'm Hoàn - [Hoàn Lê][website] 👋 
 
-![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Student%20at%20%20Viet%20-%20Korea%20University%20of%20Information%20Communication%20Technology;%20Fullstack%20Web%20application%20developer,%20Mobile%20application%20developer)
+![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Student%20at%20%20Viet%20-%20Korea%20University%20of%20Information%20Communication%20Technology;%20Fullstack%20Web%20application%20developer,%20Mobile%20application%20developer;Designer)
 
 ## I'm a Student and Developer!!
 
 ```typescript
 const HoanLe: IMyInfo = {
    fullName: "Lê Hữu Hoàn",
-   age: 20,
+   dateOfBirth: "27-03-2002",
    location: "Hà Tĩnh - Việt Nam",
    school: "VIETNAM-KOREA UNIVERSITY OF ICT"
 }
