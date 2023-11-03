@@ -20,11 +20,11 @@ const HoanLe: IMyInfo = {
 
 ### Connect with me:
 
-[<img align="left" alt="Hoanle.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hoàn Lê | YouTube" width="22px" src="https://github.com/github/explore/blob/main/topics/youtube/youtube.png" />][youtube]
-[<img align="left" alt="Hoàn Lê | LinkedIn" width="22px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png" />][facebook]
-[<img align="left" alt="Hoàn Lê | Telegram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="Hoàn Lê | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
+[<img align="left" alt="Hoanle.tk" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Hoàn Lê | YouTube" width="40px" src="https://github.com/github/explore/blob/main/topics/youtube/youtube.png" />][youtube]
+[<img align="left" alt="Hoàn Lê | LinkedIn" width="40px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png" />][facebook]
+[<img align="left" alt="Hoàn Lê | Telegram" width="40px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="Hoàn Lê | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
 
 <br />
 
@@ -38,10 +38,16 @@ const HoanLe: IMyInfo = {
 
 ### Languages
 
-<img  alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" >&nbsp;&nbsp;<img  alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" >&nbsp;&nbsp;<img  alt="Ruby" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" >&nbsp;&nbsp;<img  alt="Kotlin" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" >&nbsp;&nbsp;<img  alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" >&nbsp;&nbsp;<img  alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" >&nbsp;&nbsp;
-
-
-<img  alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" >&nbsp;&nbsp;<img  alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" >&nbsp;&nbsp;<img  alt="Py thon" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" >&nbsp;&nbsp;<img  alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" >&nbsp;&nbsp;<img  alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" >&nbsp;&nbsp;<img  alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >&nbsp;&nbsp;<img  alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" >&nbsp;&nbsp;<img  alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" >&nbsp;&nbsp;
+<img src = "https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br/>
+<img  alt="Kotlin" src="https://img.shields.io/badge/Kotlin-3F87BC?style=for-the-badge&logo=Kotlin&logoColor=white" >&nbsp;&nbsp;
+<img  alt="Android" src="https://img.shields.io/badge/android-A4C439?style=for-the-badge&logo=android&logoColor=white" >&nbsp;&nbsp;<img  alt="Android" src="https://img.shields.io/badge/csharp-9B4F96?style=for-the-badge&logo=csharp&logoColor=white" >&nbsp;&nbsp; <br/>
+<img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white" >&nbsp;&nbsp;
+<img  alt=""  src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" >
+<img  alt="Py thon"  src="https://img.shields.io/badge/python-4381B3?style=for-the-badge&logo=python&logoColor=white" >&nbsp;&nbsp;<br/>
+<img  alt="PHP" src="https://img.shields.io/badge/php-6181B6?style=for-the-badge&logo=php&logoColor=white" >&nbsp;&nbsp;
+<img  alt="Java" src="https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logo=java&logoColor=white" >&nbsp;&nbsp;
+<img  alt="SQL" src="https://img.shields.io/badge/sql-4275CB?style=for-the-badge&logo=SQL&logoColor=white" >&nbsp;&nbsp;<img  alt="Git" src="https://img.shields.io/badge/git-F34F29?style=for-the-badge&logo=git&logoColor=white" >&nbsp;&nbsp;<img  src="https://img.shields.io/badge/go-6AD7E5?style=for-the-badge&logo=go&logoColor=white" >&nbsp;&nbsp;<img  alt="Ruby" src="https://img.shields.io/badge/ruby-9A0E04?style=for-the-badge&logo=ruby&logoColor=white" >
 <br />
 
 ### Framework
