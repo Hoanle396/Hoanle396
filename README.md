@@ -1,6 +1,6 @@
 ### Hi there, I'm Hoàn - [Hoàn Lê][website] 👋 
 
-![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Student%20at%20%20Viet%20-%20Korea%20University%20of%20Information%20Communication%20Technology;%20Fullstack%20Web%20application%20developer,%20Mobile%20application%20developer;Designer)
+![Website](https://readme-typing-svg.herokuapp.com/?width=800&lines=Student%20at%20%20Viet%20Nam%20-%20Korea%20University%20of%20Information%20Communication%20Technology;FullStack%20Developer;Researcher)
 
 ## I'm a Student and Developer!!
 
@@ -15,7 +15,7 @@ const HoanLe: IMyInfo = {
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coding and listen music 
 
 ### Connect with me:
