@@ -1,0 +1,106 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.eol": "\n",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "solidity.telemetry": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[solidity]": {
+        "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+    "[properties]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "[dotenv]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "[dockerfile]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "files.associations": {
+        "*.svg": "html",
+        "*.css": "tailwindcss"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tailwindCSS.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "css": "css",
+        "plaintext": "html"
+    },
+    "tailwindCSS.experimental.classRegex": [
+        "className:\\s*\"([^\"]*)\""
+    ],
+    "emmet.triggerExpansionOnTab": true,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "remote.SSH.remotePlatform": {
+        "66.42.63.191": "linux",
+        "151.106.113.59": "linux"
+    },
+    "window.newWindowDimensions": "offset",
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "tailwindcss-intellisense.trace.server": "verbose",
+    "tailwindCSS.emmetCompletions": true,
+    "debug.disassemblyView.showSourceCode": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.addMissingImports.ts": "explicit",
+        "source.fixAll.ts": "explicit",
+        "source.sortImports": "explicit",
+        "source.removeUnusedImports": "explicit",
+        "source.removeUnused.ts": "explicit"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "[dockercompose]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 16,
+    "editor.minimap.sectionHeaderFontSize": 20,
+    "debug.console.fontSize": 20,
+    "scm.inputFontSize": 18,
+    "editor.unfoldOnClickAfterEndOfLine": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "'Sour Gummy', monospace",
+    "editor.lineHeight": 24,
+    "editor.letterSpacing": 1.2,
+    "terminal.integrated.tabs.enableAnimation": false,
+    "terminal.integrated.minimumContrastRatio": 1,
+    "terminal.integrated.fontFamily": "'MesloLGM Nerd Font'",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "none",
+}
