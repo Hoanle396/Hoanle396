@@ -17,7 +17,8 @@
 const HoanLe: IMyInfo = {
    fullName: "Lê Hữu Hoàn",
    dateOfBirth: "**-**-2002",
-   location: "Hà Tĩnh - Việt Nam"
+   location: "Hà Tĩnh - Việt Nam",
+   codingStyle: "I’m a fan of camelCase, and I feel uncomfortable when I see snake_case."
 }
 ```
 
