@@ -52,9 +52,9 @@ const HoanLe: IMyInfo = {
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoanle396/hoanle396/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoanle396/hoanle396/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hoanle396/hoanle396/output/github-contribution-grid-snake.svg">
 </picture>
 
 ![Metrics](https://github.com/Hoanle396/Hoanle396/blob/main/github-metrics.svg)
