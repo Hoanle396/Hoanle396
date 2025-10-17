@@ -51,6 +51,12 @@ const HoanLe: IMyInfo = {
 <br>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![Metrics](https://github.com/Hoanle396/Hoanle396/blob/main/github-metrics.svg)
 
 [messenger]: https://www.facebook.com/messages/t/100036070716996
